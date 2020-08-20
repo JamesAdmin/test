@@ -1,0 +1,8 @@
+3.检验是否验证成功
+
+打开git bash对话框，输入ssh -T git@github.com执行，没有一步提示成功，出现了个yes or no的提示，输入yes后才显示连接成功。（不知道是不是版本问题，还是操作不当，和查到的资料有出入，总之是建立成功了）我的git version 2.18.0.windows.1
+
+作者：tonarinototoro
+链接：https://www.jianshu.com/p/de2d99752924
+来源：简书
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
